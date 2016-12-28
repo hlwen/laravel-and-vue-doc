@@ -8,5 +8,5 @@
 * 扩展
     * [组件](components.md)
     * [文件系统](filesystem.md)
-* components
+* 组件
 
